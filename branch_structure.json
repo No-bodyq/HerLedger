@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "claude/festive-davinci-525hxv",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "claude/festive-davinci-525hxv": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "claude/festive-davinci-525hxv",
+    "origin"
+  ]
+}
